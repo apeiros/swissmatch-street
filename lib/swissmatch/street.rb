@@ -6,6 +6,13 @@ require 'swissmatch/street/version'
 
 
 
+# From SwissMatch::Street
+# Parse and handle street names and numbers.
+#
+# @note
+#   All strings passed to SwissMatch are expected to be utf-8. All strings
+#   returned by SwissMatch are also in utf-8.
+#
 module SwissMatch
 
   # Street
