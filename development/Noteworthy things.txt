@@ -1,0 +1,21 @@
+Housenumber 'bis', 'ter', 'quater', 'voir ante'
+  In the french part of the swiss, there are housenumbers of the form "4Bis" - this is for houses
+  that do NOT have the number 4, but follow after the house with the number 4. The house does not (for
+  whatever reason) have the subsequent number. Probably because it was already taken when the house
+  was built.
+  See http://www.culture-generale.fr/histoire/87-origine-des-bis-ter-quater-dans-les-numeros-de-rue
+
+
+Housenumber 'c/o'
+  C/O means "care of", it is used when somebody lives in the house of somebody else, and does not
+  have his name on the house sign.
+  It should be on a separate line in the address and is not part of the street.
+
+
+Housenumber 'Postfach', 'Fach', 'PF', 'Case Postale', 'Casella Postale', 'C.P.', 'CP'
+  All those terms translate to Post office box.
+  It should be on a separate line in the address and is not part of the street.
+
+
+Impressive housenumbers
+  * 67k, 5. OG, Nr. 53
