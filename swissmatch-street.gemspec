@@ -5,6 +5,7 @@ Gem::Specification.new do |s|
   s.version                   = "0.0.1"
   s.authors                   = "Stefan Rusterholz"
   s.email                     = "stefan.rusterholz@gmail.com"
+  s.homepage                  = "http://github.com/apeiros/swissmatch-street"
 
   s.description               = <<-DESCRIPTION.gsub(/^    /, '').chomp
     Parse, tokenize, analyze, repair and handle swiss street names and numbers.
@@ -15,6 +16,7 @@ Gem::Specification.new do |s|
 
   s.files                     =
     Dir['bin/**/*'] +
+    Dir['data/**/*'] +
     Dir['lib/**/*'] +
     Dir['rake/**/*'] +
     Dir['test/**/*'] +
